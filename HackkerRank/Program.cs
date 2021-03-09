@@ -11,19 +11,21 @@ namespace HackkerRank
     {
         static void Main(string[] args)
         {
-            int result = solveMeFirst(5, 6);
-            Console.WriteLine(result);
+            //int result = solveMeFirst(5, 6);
+            //Console.WriteLine(result);
 
-            int[] arr = { 1, 2, 3, 4, 10, 11 };
-            int result2 = simpleArraySum(arr);
-            Console.WriteLine(result2);
+            //int[] arr = { 1, 2, 3, 4, 10, 11 };
+            //int result2 = simpleArraySum(arr);
+            //Console.WriteLine(result2);
 
-            long[] arr2 = { 1000000001, 1000000002, 1000000003, 1000000004, 1000000005 };
-            long result3 = aVeryBigSum(arr2);
-            Console.WriteLine(result3);
+            //long[] arr2 = { 1000000001, 1000000002, 1000000003, 1000000004, 1000000005 };
+            //long result3 = aVeryBigSum(arr2);
+            //Console.WriteLine(result3);
 
-            int[] arr3 = { 1,2,3,-1,-2,-3,0,0};
-            plusMinus(arr3);
+            //int[] arr3 = { 1,2,3,-1,-2,-3,0,0};
+            //plusMinus(arr3);
+            Staircase.stairCase(6);
+            
         }
 
         /// <summary>
